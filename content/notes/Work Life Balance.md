@@ -3,7 +3,6 @@ title: "Work Life Balance"
 tag: 
 - sapling
 ---
-#sapling 
 
 Today I identified my initial feelings and reactions to time off and Emily taking leave, and it's the idea of going on vacation. Which is time spent away from work needs, which I feel should be ***spent** wisely*, implying a disassociation of identify in work from personal care and the latter being equally worth of time well spent. 
 
@@ -20,4 +19,4 @@ Not necessarily... but we can shift our mindset on the use of "vacation time and
 
 [[Work and Identity]]
 
-Index - Benjamin Medina
+[[Index - Benjamin Medina]]

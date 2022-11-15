@@ -4,7 +4,6 @@ tag:
 - sapling
 - education
 ---
-#sapling 
 
 [[Grades  are obstacles to get navigate]], the assignment can be perceived as mere aid's in completion, or [[Writing Assignment Considerations|tools for knowledge]]. 
 
@@ -13,8 +12,7 @@ The US education system has taken center-stage in current politics, but the effe
 Conversations of testing, and other hierarchical bureaucracies aren't considering the prime-directive of school... **To facilitate knowledge acquisition**. Educators have a responsibility to cultivate, to plant seeds of life (experiences and learning). 
 
 > [!important]
+> 
 > Abolish grades to improve mental health, to encourage student involment, and to cultivate knowledge.
 
-
 [[Index - Education]]
-#cultivating  #education 

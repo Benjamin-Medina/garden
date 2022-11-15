@@ -10,7 +10,7 @@ Some ideas are only [seeds] - in the ground, but minimally germinated
 They'll start to grow into [saplings] - slight foliage adorns these thoughts, but they aren't...
 [evergreen] - the grandad of the forest, the mega redwood sequoia towering with time and wisdom. 
 
-What's the [[philosophy behind the garden]]? 
+What's the [[philosophy behind the garden]]?  
 
 ## Get Started
 

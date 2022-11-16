@@ -1,7 +1,7 @@
 ---
 title: "Color-Coded Highlighting System"
 tags: 
-- lituratenote
+- literaturenote
 - education
 ---
 

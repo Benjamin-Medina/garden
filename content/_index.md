@@ -14,8 +14,8 @@ They'll start to grow into [saplings](/tags/sapling) - slight foliage adorns the
 
 ## Get Started
 
-A great place to start is with my [[Index - Education]].
+A great place to start is with my [[notes/Index - Education]]
 
 Perhaps you want to know the inspiration behind note-taking through links and atomicity. In that case, check out [[notes/Zettelkasten Method]]. 
 
-Oh... you're still here? Well in that case, you want to [[The Roman Empire Fell, but Rome didn’t]]
+Oh... you're still here? Well in that case, you want to [[notes/The Roman Empire Fell, but Rome didn’t]]

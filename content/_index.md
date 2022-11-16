@@ -4,16 +4,18 @@ enableToc: false
 ---
 
 # Hello
-Welcome to my digital garden. It's a bit messy, but that's the intention. 
+Welcome to my digital garden. It's a bit messy, unlike the manicured web spaces we call blogs, but it's intentionally that way. What's the [[notes/philosophy behind the garden]]?
 
 Some ideas are only [seeds](/tags/seed) - in the ground, but minimally germinated
+
 They'll start to grow into [saplings](/tags/sapling) - slight foliage adorns these thoughts, but they aren't...
 [evergreen](/tags/evergreen) - the grandad of the forest, the mega redwood sequoia towering with time and wisdom. 
 
-What's the [[notes/philosophy behind the garden]]?
 
 ## Get Started
 
-[[notes/Zettelkasten Method]]
+A great place to start is with my [[Index - Education]].
 
-[[notes/Ungrading - Reasons for it]]
+Perhaps you want to know the inspiration behind note-taking through links and atomicity. In that case, check out [[notes/Zettelkasten Method]]. 
+
+Oh... you're still here? Well in that case, you want to [[The Roman Empire Fell, but Rome didn’t]]

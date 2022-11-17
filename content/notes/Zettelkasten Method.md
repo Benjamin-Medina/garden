@@ -3,7 +3,7 @@ title: "Zettelkasten Method"
 tag: 
 - sapling
 ---
-#sapling 
+
 
 Input
 	1) Ideas of spontaneity, a spark of thoughts [Fleeting Notes]

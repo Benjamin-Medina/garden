@@ -20,7 +20,6 @@ Further reads:
 - https://www.youtube.com/watch?v=ckv_CjyKyZY&feature=emb_logo
 - https://www.swyx.io/learn-in-public/
 
----
 
 [^1]: [[The garden and the stream]]
 [^2]: [[Appleton-BriefHistory]]

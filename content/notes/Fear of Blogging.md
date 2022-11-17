@@ -13,10 +13,10 @@ Would I be my true self if my thoughts and ideas were curated?
 Who's can see? What are they going to think? Will it come to haunt me? 
 Should I care?
 
-I've started to read *Show your Work*, orginally recommended by [[My journey through information|Ali Abdaul]]. I really enjoy its consumption, and the motivating feeling brought from each chapter. 
+I've started to read *Show your Work*, originally recommended by [[My journey through information|Ali Abdaul]]. I really enjoy its consumption, and the motivating feeling brought from each chapter. 
 
 [[202205050732]]
 
-Fear of not doing mangaement right. 
+Fear of not doing management right. 
 I have lots of thoughts, so content shouldn't be a problem. 
-Will I keep checking meatrics, expecting immediate traction? 
+Will I keep checking metrics, expecting immediate traction? 

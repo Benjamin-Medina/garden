@@ -7,3 +7,4 @@ A blog, of sorts, to share knowledge, creativity and experience with others.<br>
 
 🔗 It's built using Quartz: https://quartz.jzhao.xyz/
 
+For inquiries, check out: [business card](https://benjaminmedina.carrd.co)

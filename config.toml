@@ -1,6 +1,6 @@
 baseURL = "https://benjamin-medina.github.io/garden/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-QTB2KT7V28"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [

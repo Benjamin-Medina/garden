@@ -11,11 +11,11 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://benjamin-medina.github.io/garden/tree/hugo/content
+GitHubLink: https://github.com/Benjamin-Medina/garden/tree/hugo/content/notes
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  This is the digital garden of Benjamin Medina. A second brain for all his passions and interests - mostly History and Education. 
+  The digital workspace of Benjamin Medina. A garden for all his passions and interests - Education and the Humanities (History and Social Science).
   A blog, of sorts, to share knowledge, creativity and experience with others. 
 page_title:
   "Benjamin Medina"
